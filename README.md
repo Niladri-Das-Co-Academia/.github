@@ -20,7 +20,7 @@ At **Niladri Das Co. Academia**, we are committed to advancing the frontiers of 
 
 ## Get Involved
 
-- **Contribute**: We welcome contributions from all members of the community. Check out our [contribution guidelines](https://github.com/Niladri-Das-Co-Academia/CONTRIBUTING.md).
+- **Contribute**: We welcome contributions from all members of the community. Check out our [contribution guidelines](https://github.com/Niladri-Das-Co-Academia/.github/blob/main/CONTRIBUTING.md).
 - **Join Us**: Interested in collaborating or learning more? [Contact us](mailto:niladridascoacademia@gmail.com).
 
 ## Connect With Us
